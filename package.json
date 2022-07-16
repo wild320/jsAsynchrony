@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callbacks/challenge.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "node-fetch": "^3.2.8",
     "xmlhttprequest": "^1.8.0"
-  }
+    
+  },
+  "type": "module"
 }

@@ -1,7 +1,7 @@
 # Asynchrony javascript
-
-## Callback, Async, Promise
+    Callback, Async, Promise
 
 ## installation
     npm init -y
-    npm i xmlhttprequest
+    npm i xmlhttprequest //Callback
+    npm i node-fetch //promise
