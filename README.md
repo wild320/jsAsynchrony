@@ -1,5 +1,5 @@
 # Asynchrony javascript
-    Callback, Async, Promise
+    Callback, Promise, Async
 
 ## installation
     npm init -y
